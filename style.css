@@ -18,9 +18,9 @@
 }
 
 @media (max-width:768px) {
-.block-info {
-  text-align: center;
-}
+  .block-info {
+    text-align: center;
+  }
 }
 .main-task-sheet {
   display: block;
